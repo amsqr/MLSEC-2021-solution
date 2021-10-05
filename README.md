@@ -1,2 +1,2 @@
 # MLSEC-2021-solution
-A comptireport for the solutions that were ranked 2nd in both the attacker and defender track at the 2021 Machine Learning Security Evasion Competition
+A competition report for the 3rd edition of the Machine Learning Security Evasion Competition (MLSEC-2021) sponsored by CUJO AI, VM-Ray, MRG-Effitas, Nvidia and Microsoft
